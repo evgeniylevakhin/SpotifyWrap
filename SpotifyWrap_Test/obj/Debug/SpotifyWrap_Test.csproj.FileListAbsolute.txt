@@ -1,0 +1,30 @@
+C:\Users\freemanm\Documents\Personal Projects\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Debug\SpotifyWrap_Test.dll
+C:\Users\freemanm\Documents\Personal Projects\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Debug\SpotifyWrap_Test.pdb
+C:\Users\freemanm\Documents\Personal Projects\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\obj\Debug\SpotifyWrap_Test.dll
+C:\Users\freemanm\Documents\Personal Projects\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\obj\Debug\SpotifyWrap_Test.pdb
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Debug\SpotifyWrap_Test.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Debug\SpotifyWrap_Test.pdb
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Debug\SpotifyWrap.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Debug\SpotifyWrap.pdb
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\obj\Debug\SpotifyWrap_Test.csprojResolveAssemblyReference.cache
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\obj\Debug\SpotifyWrap_Test.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\obj\Debug\SpotifyWrap_Test.pdb
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Debug\SpotifyWrap_Test.dll.config
+C:\Users\freemanm\Documents\Personal Projects\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Debug\SpotifyWrap_Test.dll.config
+C:\Users\freemanm\Documents\Personal Projects\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Debug\SpotifyWrap.dll
+C:\Users\freemanm\Documents\Personal Projects\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\freemanm\Documents\Personal Projects\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Debug\SpotifyWrap.pdb
+C:\Users\freemanm\Documents\Personal Projects\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\freemanm\Documents\Personal Projects\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\obj\Debug\SpotifyWrap_Test.csprojResolveAssemblyReference.cache
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap_Test\bin\Debug\SpotifyWrap_Test.dll.config
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap_Test\bin\Debug\SpotifyWrap_Test.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap_Test\bin\Debug\SpotifyWrap_Test.pdb
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap_Test\bin\Debug\SpotifyWrap.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap_Test\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap_Test\bin\Debug\SpotifyWrap.pdb
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap_Test\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap_Test\obj\Debug\SpotifyWrap_Test.csprojResolveAssemblyReference.cache
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap_Test\obj\Debug\SpotifyWrap_Test.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap_Test\obj\Debug\SpotifyWrap_Test.pdb

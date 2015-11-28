@@ -1,0 +1,6 @@
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap\bin\Release\SpotifyWrap.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap\bin\Release\SpotifyWrap.pdb
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap\bin\Release\Newtonsoft.Json.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap\bin\Release\Newtonsoft.Json.xml
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap\obj\Release\SpotifyWrap.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap\obj\Release\SpotifyWrap.pdb

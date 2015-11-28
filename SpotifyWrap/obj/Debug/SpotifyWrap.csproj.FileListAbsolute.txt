@@ -1,0 +1,19 @@
+C:\Users\freemanm\Documents\Personal Projects\SpotifyWrap\SpotifyWrap\SpotifyWrap\bin\Debug\SpotifyWrap.dll
+C:\Users\freemanm\Documents\Personal Projects\SpotifyWrap\SpotifyWrap\SpotifyWrap\bin\Debug\SpotifyWrap.pdb
+C:\Users\freemanm\Documents\Personal Projects\SpotifyWrap\SpotifyWrap\SpotifyWrap\bin\Debug\Newtonsoft.Json.dll
+C:\Users\freemanm\Documents\Personal Projects\SpotifyWrap\SpotifyWrap\SpotifyWrap\bin\Debug\Newtonsoft.Json.xml
+C:\Users\freemanm\Documents\Personal Projects\SpotifyWrap\SpotifyWrap\SpotifyWrap\obj\Debug\SpotifyWrap.dll
+C:\Users\freemanm\Documents\Personal Projects\SpotifyWrap\SpotifyWrap\SpotifyWrap\obj\Debug\SpotifyWrap.pdb
+C:\Users\freemanm\Documents\Personal Projects\SpotifyWrap\SpotifyWrap\SpotifyWrap\obj\Debug\SpotifyWrap.csprojResolveAssemblyReference.cache
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap\bin\Debug\SpotifyWrap.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap\bin\Debug\SpotifyWrap.pdb
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap\obj\Debug\SpotifyWrap.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap\obj\Debug\SpotifyWrap.pdb
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\bin\Debug\SpotifyWrap.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\bin\Debug\SpotifyWrap.pdb
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\obj\Debug\SpotifyWrap.csprojResolveAssemblyReference.cache
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\obj\Debug\SpotifyWrap.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\obj\Debug\SpotifyWrap.pdb

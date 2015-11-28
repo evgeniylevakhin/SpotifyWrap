@@ -1,0 +1,10 @@
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Release\SpotifyWrap_Test.dll.config
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Release\SpotifyWrap_Test.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Release\SpotifyWrap_Test.pdb
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Release\SpotifyWrap.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Release\Newtonsoft.Json.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Release\SpotifyWrap.pdb
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\bin\Release\Newtonsoft.Json.xml
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\obj\Release\SpotifyWrap_Test.csprojResolveAssemblyReference.cache
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\obj\Release\SpotifyWrap_Test.dll
+C:\Users\mikec\Documents\GitHub\SpotifyWrap\SpotifyWrap\SpotifyWrap\SpotifyWrap_Test\obj\Release\SpotifyWrap_Test.pdb
